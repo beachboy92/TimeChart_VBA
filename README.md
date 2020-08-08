@@ -1,4 +1,4 @@
 # TimeChart_VBA
-VBA‚ÅTimeChart‚ğì¬
+VBAã§TimeChartã‚’ä½œæˆ
 
 This Program us TimeChart VBA
